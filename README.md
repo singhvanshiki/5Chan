@@ -1,6 +1,7 @@
-## 5-Chan Live Demo
-### Check out the live demo of the project [5-Chan](https://5-chan-shardendu-mishra.vercel.app)
-### Check out a video of the project [YouTube Video](https://youtu.be/FIjMpPrWSkM)
+# 5-Chan 
+
+## Check out the live demo of the project [5-Chan](https://5-chan-shardendu-mishra.vercel.app)
+## Check out a video of the project [YouTube Video](https://youtu.be/FIjMpPrWSkM)
 
 A platform where users can share and receive the nicest and the meanest thing about them in a safe and harmless manner. Non-logged-in users can write about others, while logged-in users can write after a verification process using OTP (One-Time Password) during signup.
 
